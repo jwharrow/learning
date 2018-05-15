@@ -18,6 +18,10 @@ Links for things to learn about
 ## Elm
 [ ] - [Beginner tutorial](http://elmprogramming.com/)
 
+## Lambda
+[ ] - [Josh Cheek Lambda thing](https://internetsfamo.us/lambda/)
+[ ] - [List operator](https://gist.github.com/jwharrow/d7a59d0001888ad30b9f0d928e731799)
+
 ## PSQL
 [ ] - [Exercises](https://pgexercises.com/)
 [ ] - [PostgreSQL Turorial - start section 11](http://www.postgresqltutorial.com/)
