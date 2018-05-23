@@ -29,6 +29,8 @@ Links for things to learn about
 ## Bash/ssh
 [_] - [Over The Wire Bandit Game](http://overthewire.org/wargames/bandit/) - See gist
 
+[_] = [Linux Command Line (book)](https://nostarch.com/tlcl)
+
 ## PSQL
 [ ] - [Exercises](https://pgexercises.com/)
 
