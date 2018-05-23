@@ -22,11 +22,13 @@ Links for things to learn about
 [ ] - [Josh Cheek Lambda thing](https://internetsfamo.us/lambda/)
 [ ] - [List operator](https://gist.github.com/jwharrow/d7a59d0001888ad30b9f0d928e731799)
 
+## Bash/ssh
+[_] - [Over The Wire Bandit Game](http://overthewire.org/wargames/bandit/) - See gist
 ## PSQL
 [ ] - [Exercises](https://pgexercises.com/)
 [ ] - [PostgreSQL Turorial - start section 11](http://www.postgresqltutorial.com/)
 
 ## Articles:
-[ ] - [No Silver Bullet -- Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf#45)
-[ ] - [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
-[ ] - [The Idea of Lisp - Eric Normand](https://dev.to/ericnormand/the-idea-of-lisp)
+[ ] - [No Silver Bullet -- Essence and Accident in Software Engineering](http://worrydream.com/refs/Brooks-NoSilverBullet.pdf#45) 
+[ ] - [Why Functional Programming Matters - John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf) 
+[ ] - [The Idea of Lisp - Eric Normand](https://dev.to/ericnormand/the-idea-of-lisp) 
