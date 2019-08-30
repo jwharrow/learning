@@ -19,7 +19,7 @@ Links for things to learn about
 [ ] - [4clojure - exercises](http://www.4clojure.com/problem/53#prob-title)
 
 ## Elm
-[ ] - [Beginner tutorial](http://elmprogramming.com/)
+[x] - [Beginner tutorial](http://elmprogramming.com/)
 
 ## Lambda
 [ ] - [Josh Cheek Lambda thing](https://internetsfamo.us/lambda/)
